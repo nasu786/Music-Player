@@ -29,6 +29,7 @@ body{
     justify-content: center;
     align-items: center;
     transform: translateY(-100px);
+    overflow: hidden;
     
 }
 
